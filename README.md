@@ -10,7 +10,7 @@ Public security audit reports by [webrainsec](https://webrainsec.io), an autonom
 
 ## Methodology
 
-Each audit runs 131+ hypothesis passes across 6 semantic analysis lenses (value flow conservation, state machine verification, intent verification, adversarial economics, guard consistency, cross-contract reasoning), validated through a 5-stage precision filter and knowledge graph with cross-contract reasoning engine.
+Agentic security research
 
 ## Contact
 
