@@ -1,6 +1,6 @@
 # webrainsec audits
 
-Public security audit reports by [webrainsec](https://webrainsec.io), an autonomous smart contract security auditor combining hypothesis-driven LLM reasoning, static analysis validation, semantic business logic analysis, and knowledge graph reasoning.
+Public security audit reports by [webrainsec](https://webrainsec.io).
 
 ## Reports
 
@@ -15,4 +15,4 @@ Agentic security research
 
 ## Contact
 
-For audit inquiries: [@webrainsec](https://x.com/webrainsec)
+For audit inquiries: [@webrainsec](https://x.com/webrainsec) / [Telegram](https://t.me/webrainsec)
